@@ -43,7 +43,7 @@
 	</div>
 	<div class="banner">
 		...
-	</div> s
+	</div> 
 
 	<div class="uk-grid uk-grid-margin">
 		
@@ -52,7 +52,7 @@
 		</div>
 
 		<div class="uk-width-1-2">
-			<p align="left">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			<p class="uk-margin-small-right uk-margin-top">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
