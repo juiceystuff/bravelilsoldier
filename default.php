@@ -43,17 +43,7 @@
 	</div>
 	<div class="banner">
 		...
-	</div> 
-	<div class="uk-container uk-container-center">
-		<div class="uk-grid">
-			<div class="uk-width-1-1 uk-align-center statement">
-				<h1>For those who have helped me, i'll want to help others</h1>
-
-			</div>
-			
-		</div>
-	<hr class="uk-grid-divider">
-	</div>
+	</div> s
 
 	<div class="uk-grid uk-grid-margin">
 		
@@ -62,7 +52,18 @@
 		</div>
 
 		<div class="uk-width-1-2">
-			<p>...</p>
+			<p align="left">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 		</div>
 	</div>
 </body>
