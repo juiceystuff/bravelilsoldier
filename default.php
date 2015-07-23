@@ -13,25 +13,28 @@
 	<div class="uk-container uk-container-center">
 		<div class="uk-grid navheader">
 			<div class="uk-width-5-10">
-				<h1>Bravelilsoldier</h1>
+				<h1 class="logo">Bravelilsoldier</h1>
 			</div>
 			<div class="uk-width-5-10">
 				<nav class="uk-navbar uk-margin-large">
 				<ul class="uk-navbar-nav uk-hidden-small">
                     <li class="uk-active">
-                        <a href="layouts_frontpage.html">Frontpage</a>
+                        <a href="home">Home</a>
                     </li>
                     <li>
-                        <a href="layouts_portfolio.html">Portfolio</a>
+                        <a href="About Us">About Us</a>
                     </li>
                     <li>
-                        <a href="layouts_blog.html">Blog</a>
+                        <a href="Volunteer">Volunteer</a>
                     </li>
                     <li>
-                        <a href="layouts_documentation.html">Documentation</a>
+                        <a href="Blog">Blog</a>
                     </li>
                     <li>
-                        <a href="layouts_contact.html">Contact</a>
+                        <a href="donate">Donate</a>
+                    </li>
+                    <li>
+                        <a href="contact">Contact</a>
                     </li>
                 </ul>
 				</nav>
@@ -55,7 +58,7 @@
 	<div class="uk-grid uk-grid-margin">
 		
 		<div class="uk-width-1-2">
-			<img width="660" height="400" src="">
+			<img width="565" height="339" src="images/charity_love.jpg" align="right">
 		</div>
 
 		<div class="uk-width-1-2">

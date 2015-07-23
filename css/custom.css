@@ -1,6 +1,17 @@
 
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+@import url(http://fonts.googleapis.com/css?family=Cardo:400italic);
+
 .navheader {
 	padding: 50px;
+}
+
+.navtext {
+	font-family: 'Cardo', serif;
+}
+
+.logo {
+	font-family: 'Montserrat', san-serif;
 }
 
 
