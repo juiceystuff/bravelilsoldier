@@ -13,7 +13,7 @@
 	<div class="uk-container uk-container-center">
 		<div class="uk-grid navheader">
 			<div class="uk-width-5-10">
-				<h1 class="logo">Bravelilsoldier</h1>
+				<img src="images/logo.png" alt="Bravelilsoldier logo" width="250">
 			</div>
 			<div class="uk-width-5-10">
 				<nav class="uk-navbar uk-margin-large">
@@ -47,11 +47,11 @@
 
 	<div class="uk-grid uk-grid-margin">
 		
-		<div class="uk-width-1-2">
+		<div class="uk-width-medium-1-2">
 			<img width="565" height="339" src="images/charity_love.jpg" align="right">
 		</div>
 
-		<div class="uk-width-1-2">
+		<div class="uk-width-medium-1-2">
 			<p align="left">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
